@@ -1,9 +1,4 @@
-# Python代码仓库模板
-
-![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/PythonRepository-Template?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/PythonRepository-Template?style=for-the-badge) 
-
-这是一个简单的迁移模板，使用者只需在[模板仓库](https://github.com/GT-ZhangAcer/PythonRepository-Template)中点击[use this template](https://github.com/GT-ZhangAcer/PythonRepository-Template/generate)即可创建属于自己的具备前端页面空白Paddle项目。
-
+# 百度网盘AI大赛—版式分析场景第9名方案
 
 ## 项目结构
 
@@ -15,7 +10,6 @@
 --README.md 项目说明文件，可使用Markdowm编辑器进行编辑。
 --requirements.txt Python项目依赖列表
 ```  
-# 百度网盘AI大赛—版式分析场景第9名方案
 
 # 一、赛题介绍
 
